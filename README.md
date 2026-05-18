@@ -8,6 +8,9 @@ Labs for EE2026 Digital Design
 * Project Basic Tasks: Interface with OLED Module and Animations
 
 ## About the final project: 
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c5b13091-f436-4e3b-be84-3995cc1cb364" />
+
 Syntheractive is a polyphonic synthesiser that enables users to 
 play and record music while incorporating a game mode to 
 make practice more engaging. Users can choose between 
