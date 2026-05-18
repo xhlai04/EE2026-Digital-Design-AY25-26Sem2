@@ -1,6 +1,12 @@
 # EE2026-Digital-Design-AY25-26Sem2
 Labs for EE2026 Digital Design
 
+## About labs assignment:
+* Lab 1: Quick Start Guide to Vivado, Basys3 and Verilog HDL
+* Lab 2: Combinational Circuits in Verilog
+* Lab 3: Sequential Circuits in Verlog
+* Project Basic Tasks: Interface with OLED Module and Animations
+
 ## About the final project: 
 Syntheractive is a polyphonic synthesiser that enables users to 
 play and record music while incorporating a game mode to 
